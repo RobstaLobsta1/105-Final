@@ -1,0 +1,18 @@
+﻿12345,Robby Loeffler,Physics 101,607F,Evan Lewanski
+39482,John Adams,Visual Basic 105,106A,Durendal Huynh
+10034,Aaron Roberts,Photography 101,306F,John Kraig
+34123,Alice Lewis,Visual Basic 105,106A,Durendal Huynh
+78634,Nick Kim,Visual Basic 105,106A,Durendal Huynh
+34921,Matt James,C++ Data Structures 131,607D,Med Mogasemi
+09876,Jimmy Dean,Single Variable Calculus 280,306F,John Kraig
+90822,Landon Brave,Physics 101,607F,Evan Lewanski
+10000,Wayne Carter,Visual Basic 105,106A,Durendal Huynh
+45678,Tommy John,Single Variable Calculus 280,306F,John Kraig
+39282,John Doe,Physics 101,607F,Evan Lewanski
+57201,Joe Limb,C++ Data Structures 131,607D,Med Mogasemi
+28371,Ruth Bird,Single Variable Calculus 280,306F,John Kraig
+00001,Babe Ruth,American Government 400H,001,Donald Trump
+32728,Derek Peterson,Film 101,409R,Steven Spielberg
+72034,Leema Yam,C++ Data Structures 131,607D,Med Mogasemi
+90762,Tryn Damere,Visual Basic 105,106A,Durendal Huynh
+99308,Wes Loeffler,Photography 101,306F,John Kraig

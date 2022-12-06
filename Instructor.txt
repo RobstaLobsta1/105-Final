@@ -1,0 +1,9 @@
+﻿Evan,Lewanski,EvLew@harvard.us,607F
+Dennis,Rainey,draino@yahoo.com,500A
+Med,Mogasemi,mo@gmail.com,607D
+John,Kraig,jKraig@icloud.com,306F
+Durendal,Huynh,dHuynh@yahoo.com,106A
+John,Krasinski,JohnKra@gmail.com,505A
+Steven,Spielberg,I<3Transformers@icloud.com,409R
+Donald,Trump,fourty-five@us.net,001
+Steve,Jobs,iLoveMicrosoft@icloud.com,99D
